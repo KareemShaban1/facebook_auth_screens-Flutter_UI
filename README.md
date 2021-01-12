@@ -1,10 +1,10 @@
-# facebook_auth_screens_redesign
+# Facebook_auth_screens_redesign
 
 A new Flutter application.
 
 ## Getting Started
 
-In this repository I will be showing you how to redesign Twitter Auhentications Screens 
+In this repository I will be showing you how to redesign Facebook Auhentications Screens 
 
 Do ⭐ the repo it really motivates me to share more open source
 
